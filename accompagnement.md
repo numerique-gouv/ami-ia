@@ -48,7 +48,7 @@ Cette session est organisée avec Simon Chignard et Soizic Penicaud qui travaill
 
 #### Ressources : 
 - [Le support de présentation](https://github.com/etalab-ia/ami-ia/blob/master/images/AMI_IA_2_Atelier_%233_9juillet2020.pdf)
-- [L'enregistrement vidéo de la session](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1594295133544)
+- [L'enregistrement vidéo de la session](https://www.dailymotion.com/video/x84huxy)
 - [Matrice d'explication des algorithmes à remplir par groupe](./images/matrice_explication.docx)
 - [Un exemple de matrice d'explication remplie](./images/matrice_explication_exemple_score_coeur.docx)
 - [Le guide Etalab sur la transparence des algorithmes publics](https://guides.etalab.gouv.fr/algorithmes/)
@@ -60,7 +60,7 @@ Cette session est organisée avec Simon Chignard et Soizic Penicaud qui travaill
 #### Ressources
 
  
- - [Le lien de rediffusion de la séance](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1602156756613) (partie en plénière)
+ - [Le lien de rediffusion de la séance](https://www.dailymotion.com/video/x84hul8) (partie en plénière)
 
 Ci-dessous, les liens pour consulter ou télécharger les 3 présentations qui ont été faites en plénière :
   
